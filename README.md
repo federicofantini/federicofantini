@@ -13,6 +13,8 @@
 
 ## 📚 Research & Thesis
 
+- 💡 **Master's Thesis**: _The Tracker Show_  
+  Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
 - 💡 **Bachelor's Thesis**: _Study and Implementation of a Minimal Visual Odometry Pipeline for Ultra-Low-Power Nanodrones_  
   Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
 
