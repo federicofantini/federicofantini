@@ -7,13 +7,14 @@
 
 ## 📝 Writing & Resources
 
-...
+- 📄 [Malware Analysis - Inside Lumma Stealer](https://www.certego.net/blog/lummastealer/)  
+  From Malware behavior to C2 communication decryption. Analysis conducted during the thesis project "TheTrackerShow".
 
 ---
 
 ## 📚 Research & Thesis
 
-- 💡 **Master's Thesis**: _The Tracker Show_  
+- 💡 **Master's Thesis**: _The Tracker Show: A Methodological Approach to Malware C2 Interaction and Campaign Intelligence — The LummaStealer Case Study_  
   Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
 - 💡 **Bachelor's Thesis**: _Study and Implementation of a Minimal Visual Odometry Pipeline for Ultra-Low-Power Nanodrones_  
   Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
