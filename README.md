@@ -5,7 +5,7 @@
 
 ---
 ## 👾 CTF & Challenges
-[![federicofantini HTB profile](https://www.hackthebox.eu/badge/image/525244)](https://www.hackthebox.eu/home/users/profile/525244)
+[![federicofantini HTB profile](https://www.hackthebox.eu/badge/image/525244)](https://app.hackthebox.com/profile/525244)
 
 ---
 
