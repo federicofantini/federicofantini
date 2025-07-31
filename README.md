@@ -1,14 +1,20 @@
 # 👋 Hi, I'm Federico Fantini
 
-🎓 Master's student in Computer Science  
+🎓 Graduated in Computer Science (MSc)<br>
 🔍 Focused on malware analysis, sandboxing, reverse engineering, and threat intelligence
+
+---
+## 👾 CTF & Challenges
+[![federicofantini HTB profile](https://www.hackthebox.eu/badge/image/525244)](https://www.hackthebox.eu/home/users/profile/525244)
 
 ---
 
 ## 📝 Writing & Resources
 
-- 📄 [Malware Analysis - Inside Lumma Stealer](https://www.certego.net/blog/lummastealer/)  
+- 📄 [Malware Analysis - Inside Lumma Stealer](https://www.certego.net/blog/lummastealer/)<br>
   From Malware behavior to C2 communication decryption. Analysis conducted during the thesis project "TheTrackerShow".
+- 🧠 [CTF Writeups](https://federicofantini.github.io/ctf-journal)<br>
+  Personal blog with searchable writeups from various Capture The Flag challenges.
 
 ---
 
