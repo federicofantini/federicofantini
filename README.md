@@ -30,4 +30,3 @@
 ## 📫 Contact
 - 🐦 [Twitter / X](https://x.com/ffantini_)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/federico-fantini-7407412a0)
-- 🟢 **SessionApp ID**: `05b66e05acfdf3e395b9a9428985cbc924b701ee023a42a85385390eb7fea9e634`
