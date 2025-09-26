@@ -13,7 +13,7 @@
 
 - 📄 [Malware Analysis - Inside Lumma Stealer](https://www.certego.net/blog/lummastealer/)<br>
   From Malware behavior to C2 communication decryption. Analysis conducted during the thesis project "TheTrackerShow".
-- 🧠 [CTF Writeups](https://federicofantini.github.io/ctf-journal)<br>
+- 🧠 [CTF Writeups](https://blog.federicofantini.net)<br>
   Personal blog with searchable writeups from various Capture The Flag challenges.
 
 ---
