@@ -28,6 +28,6 @@
 ---
 
 ## 📫 Contact
-- 🐦 [Twitter / X](https://x.com/ffantini_)  
+- 🦣 [Mastodon](https://infosec.exchange/@federicofantini)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/federico-fantini-7407412a0)
 - 🧑‍💻 [Github](https://github.com/federicofantini)
