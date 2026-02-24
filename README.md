@@ -1,7 +1,8 @@
 # 👋 Welcome to my profile
 
 🎓 Graduated in Computer Science (MSc)<br>
-🔍 Focused on malware analysis, sandboxing, reverse engineering, and threat intelligence
+🔍 Focused on malware analysis, sandboxing, reverse engineering, and threat intelligence<br>
+🐺 Wazuh ambassador
 
 ---
 ## 👾 CTF & Challenges
