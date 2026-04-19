@@ -16,7 +16,7 @@
   From Malware behavior to C2 communication decryption. Analysis conducted during the thesis project "TheTrackerShow".
 - 🦠 [CTF and Malware Research](https://blog.federicofantini.net)<br>
   Personal blog sharing searchable writeups from CTF challenges alongside technical malware analysis and reverse engineering content.
-- 🧩 [MalCluster](https://github.com/federicofantini/MalCluster) This tool clusters malware samples and extracts core shared artefacts by combining static analysis, optional dynamic analysis, and progressive comparison inside each cluster.
+- 🧩 [MalCluster](https://github.com/federicofantini/MalCluster) identifies shared malware artifacts through static and dynamic analysis, using progressive comparison to group related samples.
 
 ---
 
