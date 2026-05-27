@@ -30,6 +30,7 @@
 ---
 
 ## 📫 Contact
-- 🦣 [Mastodon](https://infosec.exchange/@federicofantini)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/federico-fantini-7407412a0)
 - 🧑‍💻 [Github](https://github.com/federicofantini)
+- 🦣 [Mastodon](https://infosec.exchange/@federicofantini)  
+- 🐦 [Twitter](https://x.com/fede_fantini_99)
