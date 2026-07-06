@@ -2,7 +2,7 @@
 
 🎓 Graduated in Computer Science (MSc)<br>
 🔍 Focused on malware analysis, sandboxing, reverse engineering, and threat intelligence<br>
-🐺 Wazuh ambassador
+🐺 [Wazuh ambassador](https://wazuh.com/ambassadors/federico-fantini/)
 
 ---
 ## 👾 CTF & Challenges
