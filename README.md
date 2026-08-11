@@ -22,7 +22,7 @@
 
 ## 📚 Research & Thesis
 
-- 💡 **Master's Thesis**: _The Tracker Show: A Methodological Approach to Malware C2 Interaction and Campaign Intelligence — The LummaStealer Case Study_  
+- 💡 **Master's Thesis**: [_The Tracker Show: A Methodological Approach to Malware C2 Interaction and Campaign Intelligence — The LummaStealer Case Study_](https://unitesi.unimore.it/handle/20.500.14251/3541)
   Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
 - 💡 **Bachelor's Thesis**: _Study and Implementation of a Minimal Visual Odometry Pipeline for Ultra-Low-Power Nanodrones_  
   Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
