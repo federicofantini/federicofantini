@@ -1,6 +1,6 @@
 # About me
 
-- Graduated in Computer Science (MSc)
+- Graduated in Computer Science (BSc & MSc)
 - Focused on malware analysis, sandboxing, reverse engineering, and threat intelligence
 - [Wazuh ambassador](https://wazuh.com/ambassadors/federico-fantini/)
 
@@ -35,7 +35,7 @@
 
 ---
 
-## Contact
+## Contacts
 - [LinkedIn](https://www.linkedin.com/in/federico-fantini-7407412a0)
 - [Github](https://github.com/federicofantini)
 - [Mastodon](https://infosec.exchange/@federicofantini)  
