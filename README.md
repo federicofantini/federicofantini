@@ -1,13 +1,8 @@
 # About me
 
-🎓 Graduated in Computer Science (MSc)<br>
-🔍 Focused on malware analysis, sandboxing, reverse engineering, and threat intelligence<br>
-🐺 [Wazuh ambassador](https://wazuh.com/ambassadors/federico-fantini/)
-
----
-
-## CTF & Challenges
-[![federicofantini HTB profile](https://www.hackthebox.eu/badge/image/525244)](https://app.hackthebox.com/profile/525244)
+- Graduated in Computer Science (MSc)
+- Focused on malware analysis, sandboxing, reverse engineering, and threat intelligence
+- [Wazuh ambassador](https://wazuh.com/ambassadors/federico-fantini/)
 
 ---
 
@@ -32,6 +27,11 @@
   Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
 - **Bachelor's Thesis**: _Study and Implementation of a Minimal Visual Odometry Pipeline for Ultra-Low-Power Nanodrones_  
   Supervised at **University of Modena and Reggio Emilia (Unimore)**, Department of **Computer Science**
+
+---
+
+## CTF & Challenges
+[![federicofantini HTB profile](https://www.hackthebox.eu/badge/image/525244)](https://app.hackthebox.com/profile/525244)
 
 ---
 
