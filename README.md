@@ -11,7 +11,7 @@
 - [Malware Analysis - Inside Lumma Stealer](https://www.certego.net/blog/lummastealer/)<br>
   From Malware behavior to C2 communication decryption. Analysis conducted during the thesis project "TheTrackerShow".
 - Threat Research & CTF](https://blog.federicofantini.net)<br>
-  Personal blog sharing searchable writeups from CTF challenges alongside technical malware analysis and reverse engineering content.
+  Personal blog sharing searchable writeups from CTF challenges alongside technical malware analysis, reverse engineering, threat intelligence and threat hunting content.
 
 ---
 
