@@ -5,17 +5,23 @@
 🐺 [Wazuh ambassador](https://wazuh.com/ambassadors/federico-fantini/)
 
 ---
+
 ## 👾 CTF & Challenges
 [![federicofantini HTB profile](https://www.hackthebox.eu/badge/image/525244)](https://app.hackthebox.com/profile/525244)
 
 ---
 
-## 📝 Writing & Resources
+## 📝 Writing
 
 - 📄 [Malware Analysis - Inside Lumma Stealer](https://www.certego.net/blog/lummastealer/)<br>
   From Malware behavior to C2 communication decryption. Analysis conducted during the thesis project "TheTrackerShow".
 - 🦠 [CTF and Malware Research](https://blog.federicofantini.net)<br>
   Personal blog sharing searchable writeups from CTF challenges alongside technical malware analysis and reverse engineering content.
+
+---
+
+## 🏗️ Projects
+
 - 🧩 [MalCluster](https://github.com/federicofantini/MalCluster) identifies shared malware artifacts through static and dynamic analysis, using progressive comparison to group related samples.
 
 ---
